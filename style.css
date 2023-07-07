@@ -1,0 +1,354 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+.container-fluid {
+    padding: 40px 100px !important;
+}
+.h1{
+    color: #333;
+font-size: 40px;
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+line-height: 48px;
+}
+.navitem{
+    color: #858A8F;
+font-size: 20px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+cursor: pointer;
+}
+.sfdfs div{
+    gap: 16px;
+}
+.material-symbols-outlined{
+    color: #858A8F;
+    cursor: pointer;
+}
+.h2{
+    color: #FFF;
+font-size: 20px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+}
+.h3{
+    color: #333;
+font-size: 60px;
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+line-height: 73px;
+}
+.h4{
+    color: #858A8F;
+font-size: 20px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+line-height: 35px;
+}
+.but2{
+    width: 318px;
+    background-color: #0176FF;
+    border: none;
+height: 66px;
+color: #FFF;
+font-size: 20px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+}
+.h5{
+    color: #858A8F;
+font-size: 18px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+line-height: 22px;
+}
+.dsdds{
+    background-image: url(img/Components-10.png);
+    width: 605px;
+height: 887px;
+display: flex;
+justify-content: center;
+padding-left: 100px;
+position: relative;
+}
+.dsdds1{
+    background-image: url(img/Components-5.png);
+    width: 605px;
+height: 887px;
+display: flex;
+justify-content: center;
+padding-left: 100px;
+position: relative;
+}
+.dsdds1{
+    background-image: url(img/Components1.png);
+    width: 605px;
+height: 887px;
+display: flex;
+justify-content: center;
+padding-left: 100px;
+position: relative;
+}
+.dadasa{
+    background-image: url(img/iPhone_Mockup-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dadasa1{
+    background-image: url(img/iPhone_Mockup-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dadasa2{
+    background-image: url(img/iPhone_Mockup.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hfgfbh{
+    position: absolute;
+    display: flex;
+    padding:29px 0px 29px 29px;
+    align-items: center;
+    top: 182px;
+    left: 30px;
+    width: 362px;
+    background-color: #fafafa;
+    gap: 32px;
+    border-radius: 7px;
+}
+.hfgfbh1{
+    position: absolute;
+    display: flex;
+    padding:29px 0px 29px 29px;
+    align-items: center;
+    top: 514px;
+    right: 0;
+    width: 362px;
+    background-color: #fafafa;
+    gap: 32px;
+    border-radius: 7px;
+}
+.h6{
+    color: #333;
+font-size: 18px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: 27px;
+}
+.h7{
+    color: #858A8F;
+font-size: 24px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+line-height: 29px;
+}
+.line{
+    width: 809px;
+height: 2px;
+flex-shrink: 0;
+background: #F5F6FA;
+}
+.dsds {
+    width: 392px;
+height: 322px;
+}
+.h8{
+    color: #333;
+font-family: Inter;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 34px;
+}
+.h9{
+    color: #858A8F;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+}
+.circle1{
+    width: 74px;
+height: 74px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(img/Ellipse-20.png);
+}
+.circle2{
+    width: 74px;
+height: 74px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(img/Ellipse-19.svg);
+}
+.circle3{
+    width: 74px;
+height: 74px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(img/Ellipse-18.svg);
+}
+.circle4{
+    width: 74px;
+height: 74px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(img/Ellipse-17.svg);
+}
+.h10{
+    color: #333;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 29px;
+}
+.h11{
+    color: #858A8F;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px;
+}
+.h12{
+    color: #333;
+text-align: center;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 73px;
+}
+.h13{
+    color: #858A8F;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px;
+margin-top: 35px;
+}
+.costomer{
+    position: relative;
+    background: #FFF;
+    width: 816px;
+height: 362px;
+margin-top: 66px;
+display: flex;
+gap: 57px;
+padding: 22px 16px 14px 16px;
+filter: drop-shadow(0px 63px 50px rgba(67, 67, 68, 0.07));
+}
+.h14{
+    color: #333;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 29px;
+}
+.costomertxt{
+    display: flex;
+    flex-direction: column;
+    padding: 44px 80px 0px 0px;
+}
+.h15{
+    color: #858A8F;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px;
+}
+.h16{
+    color: #858A8F;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px;
+margin-top: 31px;
+}
+.arrowleft{
+    position: absolute;
+    top: 141px;
+    left: -50px;
+}
+.arrowright{
+    position: absolute;
+    top: 141px;
+    right: -50px;
+}
+.counter{
+    width: 289px;
+    height: 253px;
+    margin-top: 110px;
+}
+.h17{
+    color: #2DCA8C;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 73px;
+}
+.h18{
+    color: #333;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 29px;
+margin-top: 19px;
+}
+.h19{
+    color: #858A8F;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+margin-top: 24px;
+}
+.h20{
+    color: #FFBE3D;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 73px;
+}
+.dadsa{
+    padding: 0px 156px 0px 156px !important;
+}
+.h21{
+    color: #FF715B;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 73px;
+}

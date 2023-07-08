@@ -352,3 +352,167 @@ font-style: normal;
 font-weight: 700;
 line-height: 73px;
 }
+.h22{
+    color: #333;
+text-align: center;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 73px;
+}
+.h23{
+    margin-top: 23px;
+    color: #858A8F;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px;
+}
+/* Switch */
+input[type=checkbox] {
+    height: 0;
+    width: 0;
+    visibility: hidden;
+  }
+  
+  label {
+    cursor: pointer;
+    text-indent: -999px;
+    width: 90px;
+    height: 41px;
+    background: grey;
+    display: block;
+    border-radius: 100px;
+    position: relative;
+  }
+  
+  label:after {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 30px;
+    height: 30px;
+    background: #fff;
+    border-radius: 90px;
+    transition: 0.3s;
+  }
+  
+  input:checked + label {
+    background: #2DCA8C;
+  }
+  
+  input:checked + label:after {
+    left: calc(100% - 5px);
+    transform: translateX(-100%);
+  }
+  
+  label:active:after {
+    width: 130px;
+  }
+  
+/* Switch */
+.h24{
+    color: #858A8F;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+}
+.qardebi{
+width: 390px;
+border: 1px solid #F5F6FA;
+padding: 50px 38px 38px 38px;
+}
+.h25{
+    color: #333;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 73px;
+}
+.h26{
+    color: #858A8F;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+}
+.h27{
+    color: #FFBE3D;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px;
+}
+.h28{
+    color: #858A8F;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+}
+.but3{
+    height: 66px;
+    background-color: #377DFF;
+    border-radius: 6px;
+    margin-top: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+.h29{
+    color: #333;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 73px;
+}
+.h30{
+    color: #858A8F;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 29px;
+}
+.but4{
+    padding: 20px 40px; 
+    border: none;
+    border-radius: 7px;
+    background: #377DFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+.lasttxt{
+    color: #858A8F;
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+}
